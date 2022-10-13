@@ -13,6 +13,7 @@
 ## Key Features
 
 * A simple catalogue to find movies, films and novels.
+* I use the OMDb API to search.
 
 ## Screenshots
 
