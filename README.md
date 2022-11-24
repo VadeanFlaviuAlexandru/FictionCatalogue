@@ -12,7 +12,7 @@
 
 ## Key Features
 
-* A simple catalogue to find movies, films and novels.
+* A simple catalogue to find movies, films and novels in React.
 * I use the OMDb API to search.
 
 ## Screenshots
