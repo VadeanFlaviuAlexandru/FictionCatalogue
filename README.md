@@ -12,6 +12,7 @@
 
 ## Key Features
 
+* <a href="https://inspiring-zuccutto-76992f.netlify.app/" target="_blank">Live Demo</a>
 * A simple catalogue to find movies, films and novels.
 * I use the OMDb API to search.
 
