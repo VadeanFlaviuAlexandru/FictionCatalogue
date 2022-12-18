@@ -3,7 +3,7 @@ import "./App.css";
 import SearchIcon from "./search.svg";
 import MovieCard from "./MovieCard";
 
-const API_URL = "http://www.omdbapi.com/?i=tt3896198&apikey=5ee6a240";
+const API_URL = "https://www.omdbapi.com/?i=tt3896198&apikey=5ee6a240";
 
 const App = () => {
   const [movies, setMovies] = useState([]);
@@ -25,7 +25,7 @@ const App = () => {
 
       <div className="search">
         <input
-          placeholder="Writed the title here ✍️"
+          placeholder="Write the title here ✍️"
           value={searchTerm}
           onChange={(e) => setSearchTerm(e.target.value)}
         />
