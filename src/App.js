@@ -16,7 +16,7 @@ const App = () => {
   };
 
   useEffect(() => {
-    document.getElementById("StartingText").innerHTML="Type in the field above to search for movies, shows or video games 🍿"
+    document.getElementById("StartingText").innerHTML="Type in the field above and click the magnifying glass to search for movies, shows or video games 🍿"
   }, []);
 
   return (
