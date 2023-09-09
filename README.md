@@ -3,7 +3,7 @@
   <br>
 </h1>
 
-<h4 align="center">My first personal project to understand React better.</h4>
+<h4 align="center">My personal React project to understand API.</h4>
 
 <p align="center">
   <a href="#key-features">Key Features</a> •
